@@ -1,7 +1,10 @@
 <!DOCTYPE HTML>
 <head>
-    <title>Trường thẫm mỹ Balê</title>
+    <title>Trường thẫm mỹ Balê - Chuyên đào tạo nghề spa chuyên nghiệp</title>
     <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width">
+    <meta name="keywords" content="hoc cat toc, hoc nghe spa, day cat toc, tham my vien ba le, hoc cham soc da, day trang diem, học spa, cách trang điểm, học cắt tóc nam, học spa ở đâu tốt, cách trang điểm đẹp, day cham soc da, hoc spa o dau,học cắt tóc, học nghề spa, dạy cắt tóc, thẩm mỹ viện bale, học chăm sóc da, dạy trang điểm, hoc spa, cach trang diem, hoc spa o dau tot, cach trang diem dep, dạy chăm sóc da, trường đào tạo nghề spa, truong dao tao nghe spa,nghe thuat trang diem, nghệ thuật trang điểm, nghệ thuật trang điểm hoá trang, nghe thuat trang diem hoa trang, săn sóc da thẩm mỹ, san soc da tham my, tham my spa, thẩm mỹ spa, nghệ thuật cắt, uốn, nhuộm tóc, nghe thuat cat, uon, nhuom toc, lớp nghệ thuật móng tay, lop nghe thuat mong tay, làm nail,lam nail o dau dep, làm nail ở đâu đẹp, làm nail ở quận 3, làm nail ở quận 10, chuyên nghiệp, spa chuyên nghiệp.">
+    <meta name="description" content="Hệ thống Trường Thẩm Mỹ BaLê là trường chuyên dạy các ngành thẩm mỹ đầu tiên tại Việt Nam. Hệ thống Trường Thẩm Mỹ BaLê có 3 chi nhánh tại Hoa Kỳ ( Denver Co, Arlington tx, Houston tx ), Trường quy tụ nhiều giáo viên Việt Nam và nước ngoài nổi tiếng trong ngành thẩm mỹ. Cô Christina Trần là thành viên ban giám khảo chấm thi ngành thẩm mỹ Châu Á và Quốc Tế. Cô Vân Như - Giám đốc chi nhánh Trường Thẩm Mỹ BaLê tại Việt Nam, là người Việt Nam đầu tiên liên tiếp 3 năm liền đoạt cúp và huy chương đồng quốc tế được tổ chức tại Hoa Kỳ về nghệ thuật trang điểm và hóa trang. Đặc biệt Trường Thẩm Mỹ BaLê là trường đầu tiên tại Việt Nam được tổng cục dạy nghề cấp giấy phép đào tạo nghề người mẫu.">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ asset('css/style.css') }}">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ asset('css/menu/css/simple_menu.css') }}">
     <link rel="stylesheet" href="{{ asset('css/nivo-slider.css') }}" type="text/css" media="screen">
