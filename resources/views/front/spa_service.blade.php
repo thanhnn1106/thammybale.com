@@ -84,14 +84,16 @@
 </style>
 <h1>Bảng giá dịch vụ</h1>
 <ul class="nav nav-tabs col-md-12" style="margin-left: 0px;">
+    <?php $j = 0; ?>
     @foreach ($menuList as $item)
-    <li><a data-toggle="tab" href="#menu_{{ $item->id }}">{{ $item->menu_name_en }}</a></li>
+    <li class="<?php if ($j == 0) { echo "active"; $j++; } ?>"><a data-toggle="tab" href="#menu_{{ $item->id }}">{{ $item->menu_name_en }}</a></li>
     @endforeach
 </ul>
 
 <div class="tab-content">
+    <?php $i = 0; ?>
     @foreach ($menuList as $item)
-        <div id="menu_{{ $item->id }}" class="tab-pane fade in">
+        <div id="menu_{{ $item->id }}" class="tab-pane fade in <?php if ($i == 0) { echo "active"; $i++; } ?>">
             <table class="responstable">
                 <tr>
                     <th><strong>Tên dịch vụ</strong></th>
